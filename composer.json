@@ -1,0 +1,21 @@
+{
+    "name": "balance/phprabbitmq",
+    "description": "php rabbitmq",
+    "type": "library",
+    "require": {
+        "php": ">=7.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Balance\\Phprabbitmq\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "balance",
+            "email": "742512260@qq.com",
+            "homepage": "https://github.com/balanceinallthingss/test.git"
+        }
+    ],
+    "minimum-stability": "dev"
+}
