@@ -5,6 +5,6 @@ namespace Balance1230\Phprabbitmq;
 class TestClass
 {
     public function str():string{
-        return 'testing';
+        return 'testing ---11111';
     }
 }
