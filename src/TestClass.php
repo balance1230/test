@@ -1,6 +1,6 @@
 <?php
 
-namespace Php\Rabbitmq;
+namespace Balance1230\Phprabbitmq;
 
 class TestClass
 {

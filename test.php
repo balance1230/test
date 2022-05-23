@@ -1,7 +1,7 @@
 <?php
 require_once 'vendor/autoload.php';
 
-use Php\Rabbitmq\TestClass;
+use Balance1230\Phprabbitmq\TestClass;
 
 $class=new TestClass();
 
